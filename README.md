@@ -7,7 +7,7 @@
 ##
 </div>
 <p align="center">
-  <img width="250" <img src="https://i.picasion.com/pic92/490cd8775f5a910922d7ef6aaff32190.gif">
+   <img src="https://i.picasion.com/pic92/490cd8775f5a910922d7ef6aaff32190.gif">
 </p>
 
 
