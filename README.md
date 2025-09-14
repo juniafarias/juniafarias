@@ -5,3 +5,7 @@
 - ✉ Contrate-me no E-mai: juniamoraess@yahoo.com
 - 🖇️ Pronouns: ela/dela or she/her
 
+##
+</div>
+
+  </div>
