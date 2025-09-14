@@ -1,7 +1,6 @@
-## Oii! Eu sou a Junia
-
-- ✨ Estudo Atualmente Front-End
-- 🦉 Estudante de ADS pela Unisuam 
+## Oiiii! Bem vindo(a) ao meu GitHub!🫰🏻
+- 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas - UNISUAM
+- 📚 Estudo Atualmente Front-End
 - 🖇️ Pronouns:she/her
 
 ##
