@@ -6,7 +6,7 @@
 
 ##
 </div>
-<p align="side">
+<p align="side ride">
    <img src="https://i.picasion.com/pic92/490cd8775f5a910922d7ef6aaff32190.gif">
 </p>
 
