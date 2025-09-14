@@ -2,7 +2,7 @@
 
 - ✨ Estudo Atualmente Front-End
 - 🦉 Estudante de ADS pela Unisuam 
-- 🖇️ Pronouns: ela/dela or she/her
+- 🖇️ Pronouns:she/her
 
 ##
 </div>
