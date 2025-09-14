@@ -1,4 +1,4 @@
-## Oii1 Eu sou a Junia
+## Oii! Eu sou a Junia
 
 - ✨ Estudo Atualmente Front-End
 - 🦉 Estudante de ADS pela Unisuam 
