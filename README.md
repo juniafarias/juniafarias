@@ -1,4 +1,5 @@
 ## Oiiii! Bem vindo(a) ao meu GitHub!🫰🏻
+ Esse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
 - 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas - UNISUAM
 - 📚 Estudo Atualmente Front-End
 - 🖇️ Pronouns:she/her
