@@ -112,7 +112,7 @@
     title=".net"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
 />
 
 <br/>
