@@ -1,7 +1,7 @@
 ## Welcome To My GitHub!🫰🏻
  Esse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas - UNISUAM
-- 📚 Estudo Atualmente Front-End
+- 📚Front-end,Estudo Atualmente Back-end
 - 🖇️ Pronouns:she/her
 
 ##
