@@ -5,25 +5,6 @@
 - 📚Front-end,Estudo Atualmente Back-end
 - 🖇️ Pronouns:she/her
 
-
-    <a href="https://github.com/juniafarias?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/juniafarias?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### || Languages and Technologies
 
 <img 
@@ -125,12 +106,19 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
-          
+<img 
+    align="left" 
+    alt=".net" 
+    title=".net"
+    width="30px" 
+    style="padding-right: 10px;" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### || statistics
 
 <p>
   <img 
