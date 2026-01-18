@@ -1,7 +1,7 @@
 ## Welcome To My GitHub!🫰🏻
  Esse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
  **`Desenvolvedora FullStack`**
-- 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas - UNISUAM
+- 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📚Front-End,Estudo Atualmente Back-End
 - 🖇️ Pronouns:she/her
 
