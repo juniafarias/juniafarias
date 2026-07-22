@@ -127,10 +127,4 @@
 
 
 ##
-</div>
-<p align="side ">
-   <img src="https://i.picasion.com/pic92/d18f41ae4cec71416632c835f3a7c46f.gif" 
-</p>
 
-
-  </div>
