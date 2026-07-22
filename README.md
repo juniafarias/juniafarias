@@ -3,7 +3,6 @@
  **`Desenvolvedora FullStack`**
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📚Front-End,Estudo Atualmente Back-End
-- 🖇️ Pronouns:she/her
 
 ### || Languages and Technologies
 
