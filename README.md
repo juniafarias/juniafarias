@@ -2,7 +2,8 @@
  Esse perfil é onde eu armazeno todos os meus conhecimentos que eu tenho colocado em prática a cada dia!
  **`Desenvolvedora FullStack`**
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚Front-End,Estudo Atualmente Back-End
+- 📚Front-End,Infraestrutura e Arquiteturas para Suporte as
+Aplicações(AWS),Estudo Atualmente Back-End.
 
 ### || Languages and Technologies
 
