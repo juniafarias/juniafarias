@@ -3,7 +3,7 @@
  **`Desenvolvedora FullStack`**
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📚Front-End,Infraestrutura e Arquiteturas para Suporte as
-Aplicações(AWS),Estudo Atualmente Back-End.
+Aplicações(AWS).
 
 ### || Languages and Technologies
 
